@@ -1,1 +1,5 @@
 Flask
+Numpy
+Pandas
+scikit-learn
+Pickle
